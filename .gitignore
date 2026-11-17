@@ -1,0 +1,5 @@
+.env
+pembukuan.db
+pembukuan.xlsx
+__pycache__/
+*.pyc
